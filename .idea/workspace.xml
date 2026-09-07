@@ -1,36 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="771f6d29-7d65-42f7-a7d3-2fdef19909e7" name="Changes" comment="" />
+    <list default="true" id="771f6d29-7d65-42f7-a7d3-2fdef19909e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/lesson-7-9.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/lesson-7-9.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eladamit555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/eladamit555/lesson-7-9.git&quot;,
+    &quot;accountId&quot;: &quot;cf23a373-d230-4fe7-9893-0a31c67e819d&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.000000000000001" />
+      <entry key="S5" value="1.0000010272366415" />
+      <entry key="S10" value="1.001013541672871" />
+      <entry key="S30" value="1.1055554820186202" />
+      <entry key="S60" value="1.4464045871083737" />
+      <entry key="M2" value="2.4201589541150943" />
+      <entry key="M5" value="7.466603852733268" />
+      <entry key="M10" value="19.34501604653779" />
+      <entry key="M15" value="32.000985904731074" />
+      <entry key="M30" value="64.88329659533362" />
+      <entry key="H1" value="109.65231907691907" />
+      <entry key="H2" value="156.67653897327386" />
+      <entry key="H4" value="193.99243525434713" />
+      <entry key="D1" value="236.76548563792227" />
+      <entry key="W1" value="245.49860714739614" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.023235E-318" />
+      <entry key="MS500" value="2.5441455985742107E-64" />
+      <entry key="S2" value="1.6431880471670976E-16" />
+      <entry key="S5" value="7.48467123821452E-7" />
+      <entry key="S10" value="0.0013845932685347306" />
+      <entry key="S30" value="0.2283767005721492" />
+      <entry key="S60" value="0.8664644995657192" />
+      <entry key="M2" value="1.8075582673076154" />
+      <entry key="M5" value="3.372592420932394" />
+      <entry key="M10" value="5.135849054917298" />
+      <entry key="M15" value="6.4890674855196835" />
+      <entry key="M30" value="9.320919420792883" />
+      <entry key="H1" value="12.731316570844664" />
+      <entry key="H2" value="16.231042615497508" />
+      <entry key="H4" value="19.016420939375184" />
+      <entry key="D1" value="22.228404551822017" />
+      <entry key="W1" value="22.88673706443375" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.962865894577132E-14" />
+      <entry key="MS500" value="0.001969438388466006" />
+      <entry key="S2" value="0.21066170737578827" />
+      <entry key="S5" value="0.5363338409543377" />
+      <entry key="S10" value="0.7343518161734094" />
+      <entry key="S30" value="1.2172500301652738" />
+      <entry key="S60" value="2.227035179045336" />
+      <entry key="M2" value="4.157514420505692" />
+      <entry key="M5" value="10.77206858230017" />
+      <entry key="M10" value="24.416663242542935" />
+      <entry key="M15" value="38.430512924656774" />
+      <entry key="M30" value="74.15541599791617" />
+      <entry key="H1" value="122.34601832747019" />
+      <entry key="H2" value="172.88129392230758" />
+      <entry key="H4" value="212.9926064617962" />
+      <entry key="D1" value="258.9905720594" />
+      <entry key="W1" value="268.38485217073327" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3J0J822ES6RWt6az01sUvS7XDhW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -50,5 +146,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
